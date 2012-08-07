@@ -64,6 +64,7 @@
 * Have you ever looked at the source code aof the libraries/frameworks you use?
 * How is JavaScript different from Java? 
 * What's a hashtable?
+* What is unobtrusive JavaScript and why would you prefer it?
 * What are `undefined` and `undeclared` variables? 
 * What is a closure, and how/why would you use one? 
 	* Your favorite pattern used to create them? argyle (Only applicable to IIFEs)  
